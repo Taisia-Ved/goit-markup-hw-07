@@ -1,0 +1,35 @@
+.futures-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.futures-list-item {
+  width: 270px;
+}
+
+.futures-list-img {
+  display: flex;
+  justify-content: center;
+  padding: 25px 0;
+  margin-bottom: 30px;
+  background-color: #f5f4fa;
+  border-radius: 4px;
+}
+
+.futures-list-title {
+  margin-bottom: 10px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  text-transform: uppercase;
+  color: #212121;
+}
+
+.text-advantages {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.714;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
